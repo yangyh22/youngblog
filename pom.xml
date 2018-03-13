@@ -39,5 +39,7 @@
 	</dependencyManagement>
 	<modules>
 		<module>youngblog-controller</module>
+<module>youngblog-provider</module>
+		<module>youngblog-common</module>
 	</modules>
 </project>
